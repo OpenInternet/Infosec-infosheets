@@ -13,3 +13,5 @@ If you lose your PIN or password for Signal or WhatsApp, you will need to wait s
 
 
 \* While both Signal and Telegram offer the option of hiding your phone number, this just means that other users you message can’t see your number. The services can still use your number to authenticate your account on a new device. Signal now allows you to register on new devices with the PIN alone, with no SMS codes.
+
+This infosheet was developed in December 2024, for Internews partners and fellows delivering digital security training activities. You are welcome to adapt, edit, or translate this sheet based on your training needs.
