@@ -5,6 +5,7 @@ Session hijacking is a type of attack which grants an adversary temporary access
 ## Authentication cookies
 
 Session hijacking involves stealing cookies, or small pieces of data that a website asks a browser to remember. For example, a website may ask the user to choose their preferred language and store that as a cookie. As the user visits the website again, their browser will send the cookie with the preferred language to the website, which now knows it without having to ask again. Cookies can also store information about which user is currently logged in. This is why, if you clear all cookies, you will need to re-enter your username, password, and 2FA code (or passkey) into all websites again–since the website will have no way of remembering who you are.
+
 If an adversary obtains a cookie that your browser uses for authentication (also known as asession cookie), they can impersonate you from their own computer by simply adding the session cookie to their browser, a process they can fully automate. By obtaining access to a session cookie, an adversary typically has the same access to the account that any logged-in user would have. Depending on the platform, this could mean access to sent andreceived emails or direct messages. They are also able to generate new content, such as sending emails or social media posts. While most online platforms have some defenses against adversaries logging in with stolen session cookies, skilled adversaries can sometimes overcome those defenses.
 
 ## How are cookies stolen, anyway?
