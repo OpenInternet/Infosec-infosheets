@@ -5,8 +5,6 @@ Using **SMS-based two-factor authentication (2FA)**, a user logs into their acco
 
 Some of its weaknesses – such as the fact that it is vulnerable to 2FA-aware phishing – are shared with other forms of TOTP 2FA, such as authenticator apps. Similarly, relying on any type of 2FA (including SMS-based 2FA) could result in malicious apps gaining access to your accounts through something called OAUTH or Open Authorization (which is an open standard that allows users to grant third-party applications access to their information, without actually having to share their passwords).
 
-*TIP: Enrolling your account in [Google’s Advanced Protection Program](https://landing.google.com/advancedprotection/) is one way you can automatically limit ‘OAUTH granting’ to only a small number of verified apps.*
-
 However, beyond these “shared” vulnerabilities, there are a number of things that make SMS-based 2FA particularly vulnerable to attacks – and it should be noted that even if SMS-based 2FA isn’t used, there may still be services that rely on SMS access that are thus similarly vulnerable to the same weaknesses.
 
 ## Weakness #1: Physical access to a phone – through theft, loss, seizure, or a relationship between the adversary and their target.
