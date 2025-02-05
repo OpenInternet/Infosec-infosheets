@@ -40,4 +40,4 @@ Finally, in some cases the providers that send SMS messages on companies’ beha
 
 If the service you're signed up for only uses SMS for 2FA, then by all means use it. But if it offers alternative methods, such as authenticator apps or ideally physical security keys or passkeys, then we recommend using those instead and turning off SMS for 2FA. If you do so, make sure to also print off backup codes or set up more than one method of 2FA so that you do not accidentally lock yourself out of your account—if, for example, you lose a device.
 
-This infosheet was developed in December 2024, for Internews partners and fellows delivering digital security training activities. You are welcome to adapt, edit, ortranslate this sheet based on your training needs.
+*This infosheet was developed in December 2024 for Internews partners and fellows delivering digital security training activities. You are welcome to adapt, edit, ortranslate this sheet based on your training needs.*
