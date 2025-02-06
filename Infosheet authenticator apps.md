@@ -13,6 +13,7 @@ the login process.
 When you first add a new account into your authenticator app, the service (for example your email provider) will typically show you a QR code, which you scan through your authenticator app. The service will then display a six-digit code, which you will need to type into your authenticator app. After this, the authenticator app is set up for this account.
 
 ## Backups!
+
 To prevent being locked out of one’s account in case a device is lost, stolen or broken, it is strongly recommended to back up the app and the accounts stored therein.
 
 Many platforms that support 2FA – regardless of the type of 2FA they support – allow for ‘backup codes’ to be downloaded. They are designed for situations in which you remember your password but cannot access app-based or security key-based 2FA (for example, perhaps you lost a device or accidentally uninstalled your authenticator app from your phone).
