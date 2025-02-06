@@ -19,7 +19,7 @@ security keys with FIDO2 passkeys/passwordless logins.
 
 Physical security keys have one major advantage over authenticator or SMS-based methods of two-factor authentication: they are very resistant to phishing attacks.
 
-An attacker could create a phishing website that asks for a targeted user’s password and authenticator app or SMS code, and then instantly enters the two into the real website,thereby gaining access to the user’s account before their authenticator app code expires.
+An attacker could create a phishing website that asks for a targeted user’s password and authenticator app or SMS code, and then instantly enters the two into the real website, thereby gaining access to the user’s account before their authenticator app code expires.
 
 A physical security key protects against this because it sends a code that is tied to the webpage on which it was registered. A fake website that tries to serve as an intermediary between the user and a real website will receive a different code - one that it will not be able to pass on to the real website. This is because phishing sites have different domain names than their real counterparts, which the security key mechanism will detect.
 

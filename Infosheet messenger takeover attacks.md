@@ -14,6 +14,10 @@ Every major messenger offers the possibility of enabling a password or PIN that 
 
 If you lose your PIN or password for Signal or WhatsApp, you will need to wait seven days to register your number on a new device. If an adversary stole your SMS code and waited for that long, they too could take over your account. To help protect against this, be sure to always open each of your messenger applications at least twice a week (and see if you don’t encounter a security message right after opening it) to ensure that nobody else is trying to gain access to your account.
 
+\
+\
+\
+
 *This infosheet was developed in December 2024, for Internews partners and fellows delivering digital security training activities. You are welcome to adapt, edit, or translate this sheet based on your training needs.*
 
 [^1]: While both Signal and Telegram offer the option of hiding your phone number, this just means that other users you message can’t see your number. The services can still use your number to authenticate your account on a new device. Signal now allows you to register on new devices with the PIN alone, with no SMS codes.
