@@ -25,3 +25,5 @@ For these reasons, we recommend everyone to experiment with passkeys on sites de
 *This infosheet was developed in October 2024, for Internews partners and fellows delivering digital security training activities. You are welcome to adapt, edit, or translate this sheet based on your training needs.*
 
 [^1]: Not all physical security keys can store passkeys. Those that do are usually referred to as FIDO2 security keys. They usually support both passkeys and Universal 2nd Factor (U2F) logins.
+
+The above content has been released under the [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license

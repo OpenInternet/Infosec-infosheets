@@ -28,3 +28,5 @@ On most platforms, making important changes (such as changing the password) requ
 Protecting your accounts is a shared responsibility between you (i.e. being careful in youronline activities) and the configurations made by the platform provider. Practicallyspeaking, the best steps YOU can take to avoid session hijacking attacks are: only usinghighly-vetted browsers and trusted extensions; and protecting your device from malware.
 
 *This infosheet was developed in December 2024 for Internews partners and fellows delivering digital security training activities. You are welcome to adapt, edit, or translate this sheet based on your training needs.*
+
+The above content has been released under the [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license

@@ -30,3 +30,5 @@ If the authenticator app has login functionality (such as with Google’s and Mi
 App-based authentication is much stronger than password-only authentication, and also more secure than SMS-based two-factor authentication. It does, however, share a weakness with the latter: the risk of real-time adversary-in-the-middle phishing attacks. In this kind of attack, a phishing page doesn’t merely collect login details but also attempts to use them to login to the targeted service in real time. If this service asks for a one-time password – either provided through SMS or through an authenticator app – the phishing page asks the user for this code and then enters this into the real site. Physical security keys and passkeys do not have this weakness, and are thus recommended (as being more secure) for high-risk users.
 
 *This infosheet was developed in October 2024 for Internews partners and fellows delivering digital security training activities. You are welcome to adapt, edit, or translate this sheet based on your training needs.*
+
+The above content has been released under the [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license

@@ -30,3 +30,5 @@ For more information about Mobile Advertising IDs, be sure to consult the below 
 [How to Disable Ad ID Tracking on iOS and Android, and Why You Should Do It Now](https://www.eff.org/deeplinks/2022/05/how-disable-ad-id-tracking-ios-and-android-and-why-you-should-do-it-now)
 
 *This infosheet was developed in October 2024, for Internews partners and fellows delivering digital security training activities. You are welcome to adapt, edit, or translate this sheet based on your training needs.*
+
+The above content has been released under the [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license
