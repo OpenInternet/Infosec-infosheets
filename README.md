@@ -11,3 +11,4 @@ We would like to thank the following people (in no particular order) for authori
 * [Martijn Grooten](https://www.lapsedordinary.net/)
 * [Łukasz Król](http://lukaszkrol.net)
 * Neil Blazevic
+* Helen N
