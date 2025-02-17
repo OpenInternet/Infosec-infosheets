@@ -1,8 +1,8 @@
-# Device location security
+# Device location security for journalists
 
 ## What we do and do not cover in this guide
 
-This guide looks at how our mobile devices could leak data about our locations and what we could do to protect ourselves against it. It’s designed for most Central European journalists’ threat models and only looks at how our mobile devices could give up precise location data on us. It doesn’t look at some of the other ways your location can be tracked, such as through payments, CCTV cameras, or images you post online, and doesn’t cover coarse location data (for example, how your IP address might reveal which country or city you’re in).
+This guide, originally designed for high-risk journalists, looks at how our mobile devices could leak data about our locations and what we could do to protect ourselves against it. It focuses on how our mobile devices could give up precise location data on us. It doesn’t look at some of the other ways your location can be tracked, such as through payments, CCTV cameras, or images you post online, and doesn’t cover coarse location data (for example, how your IP address might reveal which country or city you’re in).
 
 We have also created an additional guide on disabling mobile advertising IDs, which can prevent different apps with which you shared your location from correlating that data.
 
