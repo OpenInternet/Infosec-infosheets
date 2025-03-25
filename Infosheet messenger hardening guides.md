@@ -28,15 +28,19 @@ Telegram _only_ supports automatic disappearing messages on secret chats, not st
 [Telegram](https://www.howtogeek.com/710073/how-to-send-disappearing-messages-in-telegram/) (only on secret chats, not on groupchats)
 
 
-## Usernames and phone number privacy
+## Signal usernames and phone number privacy
 
-Signal allows you to 
+Signal has recently introduced _usernames_, which allow you to hide your phone number from people you talk to. This is particularly useful for those who would prefer not to reveal their real-life identity, or are concerned about targeted harassment. 
 
-Signal
-https://support.signal.org/hc/en-us/articles/6712070553754-Phone-Number-Privacy-and-Usernames 
+### How to enable this feature
+
+[Signal](https://support.signal.org/hc/en-us/articles/6712070553754-Phone-Number-Privacy-and-Usernames)
 
 
-Security notifications (if someone you’re talking to reinstalled the messenger or someone potentially took over their account)
+Security notifications
+
+
+(if someone you’re talking to reinstalled the messenger or someone potentially took over their account)
 You need to enable them manually on WhatsApp
 https://faq.whatsapp.com/1524220618005378/ 
 On Signal, they are on by default
