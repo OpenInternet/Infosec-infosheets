@@ -7,8 +7,8 @@ As we mentioned in our guide on [messenger takeovers](Infosheet messenger takeov
 
 ### How to enable this feature
 
-[WhatsApp](https://faq.whatsapp.com/1278661612895630)
-[Signal](https://support.signal.org/hc/en-us/articles/360007059792-Signal-PIN#manage_registration_lock) (enable PIN and registration lock)
+[WhatsApp](https://faq.whatsapp.com/1278661612895630) \
+[Signal](https://support.signal.org/hc/en-us/articles/360007059792-Signal-PIN#manage_registration_lock) (enable PIN and registration lock) \
 [Telegram](https://telegram.org/blog/sessions-and-2-step-verification)
 
 
@@ -23,8 +23,8 @@ Telegram _only_ supports automatic disappearing messages on secret chats, not st
 
 ### How to enable this feature
 
-[WhatsApp](https://faq.whatsapp.com/673193694148537)
-[Signal](https://support.signal.org/hc/en-us/articles/360007320771-Set-and-manage-disappearing-messages)
+[WhatsApp](https://faq.whatsapp.com/673193694148537) \
+[Signal](https://support.signal.org/hc/en-us/articles/360007320771-Set-and-manage-disappearing-messages) \
 [Telegram](https://www.howtogeek.com/710073/how-to-send-disappearing-messages-in-telegram/) (only on secret chats, not on groupchats)
 
 
