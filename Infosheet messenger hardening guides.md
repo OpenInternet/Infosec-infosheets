@@ -37,17 +37,25 @@ Signal has recently introduced _usernames_, which allow you to hide your phone n
 [Signal](https://support.signal.org/hc/en-us/articles/6712070553754-Phone-Number-Privacy-and-Usernames)
 
 
-Security notifications
+## Security notifications
 
+When you see a _security notification_ on your device, it means that something changed about the Signal or WhatsApp installation of the person you're talking to (or are in a groupchat with). In most cases, it means that they reinstalled Signal or WhatsApp or has a new device. It could, however, also mean that someone else has taken over their account and registered it on a new device. If you see a security notification, it's a good idea to reach out to the person and verify their identity, for example by asking what you chatted about at the last lunch you had together.
 
-(if someone you’re talking to reinstalled the messenger or someone potentially took over their account)
-You need to enable them manually on WhatsApp
-https://faq.whatsapp.com/1524220618005378/ 
-On Signal, they are on by default
-https://support.signal.org/hc/en-us/articles/360007060632-What-is-a-safety-number-and-why-do-I-see-that-it-changed 
+For more information, check out our guide to [messenger takeover attacks](Infosheet messenger takeover attacks.md).
 
+Signal shows security notifications by default. In order to see them on WhatsApp, you need to enable them manually.
 
-Encrypted backups
-WhatsApp (make sure to save the password in a safe place; you can’t regain access to your backups without it!)
-https://faq.whatsapp.com/490592613091019 
+### How to enable this feature
 
+[Signal](https://support.signal.org/hc/en-us/articles/360007060632-What-is-a-safety-number-and-why-do-I-see-that-it-changed) \
+[WhatsApp](https://faq.whatsapp.com/1524220618005378/)
+
+## Encrypted backups
+
+WhatsApp allows you to back up your conversations to Google Drive or iCloud. That way, even if your phone was lost, broken, or stolen, you could still easily restore an archive of your chats. As an additional protection, you can also encrypt those backups with a special password: that way, if anyone were to gain access to the account where those backups are stored, they would be unable to read their content without the password.
+
+Do note that you will not be able to access the data stored in the backup without the password. As such, make sure to store it in a safe place.
+
+### How to enable this feature
+
+[WhatsApp](https://faq.whatsapp.com/490592613091019)
