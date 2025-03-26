@@ -59,3 +59,9 @@ Do note that you will not be able to access the data stored in the backup withou
 ### How to enable this feature
 
 [WhatsApp](https://faq.whatsapp.com/490592613091019)
+
+
+----
+
+
+The above content has been released under the [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license
