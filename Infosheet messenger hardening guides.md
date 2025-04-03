@@ -56,8 +56,8 @@ When you call somebody over a messenger, the call go directly from your phone or
 
 ### How to enable this feature
 
-[WhatsApp](https://faq.whatsapp.com/2635108359972899)
-**Signal:** Go to your settings ➡️ Calls ➡️ Always relay calls
+[WhatsApp](https://faq.whatsapp.com/2635108359972899) \
+**Signal:** Go to your settings ➡️ Calls ➡️ Always relay calls \
 **Telegram:** Go to your settings ➡️ Privacy and Security ➡️ Calls ➡️ Peer-to-peer
 
 ## Encrypted backups
