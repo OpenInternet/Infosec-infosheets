@@ -30,7 +30,9 @@ Telegram _only_ supports automatic disappearing messages on secret chats, not st
 
 ## Signal usernames and phone number privacy
 
-Signal has recently introduced _usernames_, which allow you to hide your phone number from people you talk to. This is particularly useful for those who would prefer not to reveal their real-life identity, or are concerned about targeted harassment. 
+Signal has recently introduced _usernames_, which allow you to hide your phone number from people you talk to. This is particularly useful for those who would prefer not to reveal their real-life identity, or are concerned about targeted harassment.
+
+Since many people now hide their phone numbers on Signal and use non-descriptive contact names, it can sometimes be a little difficult to figure out who is who. We recommend [adding nicknames to your Signal contacts](https://support.signal.org/hc/en-us/articles/360007319011-Manage-Contacts-Nicknames-and-Notes) or adding notes with their affiliations or other key details. If you'd like to learn more about this topic, check out [this great article (registration needed)](https://www.404media.co/you-need-to-use-signals-nickname-feature/) on Signal's contact management features.
 
 ### How to enable this feature
 
