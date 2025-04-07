@@ -52,6 +52,16 @@ Signal shows security notifications by default. In order to see them on WhatsApp
 [Signal](https://support.signal.org/hc/en-us/articles/360007060632-What-is-a-safety-number-and-why-do-I-see-that-it-changed) \
 [WhatsApp](https://faq.whatsapp.com/1524220618005378/)
 
+## Location privacy during phone calls and video chats
+
+When you call somebody over a messenger, the call go directly from your phone or that of the recipient. The latter is typically easier and leads to higher quality calls. Since you connect directly to someone else's device, you will inevitably need to share the IP address from which you are calling. IP addresses can be correlated with your location (or alternatively, reveal the fact that you're using a VPN), so some at risk individuals would prefer to hide them when calling others through a messenger. Thankfully, WhatsApp, Signal, and Telegram all offer the option to relay all calls through their servers. While possibly reducing call quality, it will hide your IP address from whoever you are talking to.
+
+### How to enable this feature
+
+[WhatsApp](https://faq.whatsapp.com/2635108359972899) \
+**Signal:** Go to your settings ➡️ Calls ➡️ Always relay calls \
+**Telegram:** Go to your settings ➡️ Privacy and Security ➡️ Calls ➡️ Peer-to-peer
+
 ## Encrypted backups
 
 WhatsApp allows you to back up your conversations to Google Drive or iCloud. That way, even if your phone was lost, broken, or stolen, you could still easily restore an archive of your chats. As an additional protection, you can also encrypt those backups with a special password: that way, if anyone were to gain access to the account where those backups are stored, they would be unable to read their content without the password.
