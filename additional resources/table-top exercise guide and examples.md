@@ -3,7 +3,7 @@
 # Journalist Security Fellowship
 
 
-**[Table-Top Exercise (TTX) Facilitation Guide for Digital Safety Training	1](#table-top-exercise-\(ttx\)-facilitation-guide-for-digital-safety-training)**
+**[Table-Top Exercise (TTX) Facilitation Guide for Digital Safety Training	1](#table-top-exercise-(ttx)-facilitation-guide-for-digital-safety-training)**
 
 [**Scenario 1: Missing Device**](#scenario-1:-missing-device)
 
@@ -147,8 +147,6 @@ We created a single persona, Sara, to base the experiences in the example TTX sc
 
 *Following a national election 5 months ago, the new government in power has started limiting press freedoms and last week authorities raided the homes of three prominent journalists in the capital.  Recently, Sara's house was also raided, though those who carried out the raid only took several notebooks.*
 
-	Journalist Security Fellowship
-
 # **Tabletop Exercises**
 
 # **Scenario 1: Missing Device**  {#scenario-1:-missing-device}
@@ -245,7 +243,6 @@ Good news\! A friend of Sara who has been with her at the party found the phone 
 - Identify steps to take and people to contact when security might be compromised (like a phone is stolen or a password is hacked)   
 - IT support should be given to all staff that need it. 
 
-	Journalist Security Fellowship
 
 # **Tabletop Exercises**
 
@@ -324,8 +321,6 @@ Sara learns that the leak came from the inside of her organization. A designer h
 - Sara should establish secure protocols that apply to her investigative team only. She should ensure there is a clear permission system and that it is followed in practice.   
 - The team should work with designers in such a way that they only have information on an as-need basis: they should not be given any secret or sensitive details unless absolutely necessary for the publication.  
 - Sara should also consider security and privacy as a process and not as a state; it’s something that should be constantly iterated upon.
-
-	Journalist Security Fellowship
 
 # **Tabletop Exercises**
 
@@ -427,8 +422,6 @@ Discuss with the group of participants why each of these photos might be sensiti
 
 	
 
-Journalist Security Fellowship
-
 # **Tabletop Exercises**
 
 # **Scenario 4: Authorities entering a newsroom** {#scenario-4:-authorities-entering-a-newsroom}
@@ -514,7 +507,6 @@ A few weeks later, the editor of the newsroom calls all the journalists and staf
 - Ask the standard threat modeling questions: what information do they have, who might be interested in accessing it, and what would be the consequences if their adversaries succeeded  
 - When listing adversaries, think about both motive (what would they like to do and why) and capabilities (what are they actually capable of doing, what technical, legal, organizational, and financial means do they have?)
 
-	Journalist Security Fellowship
 
 # **Tabletop Exercises**
 
@@ -643,7 +635,6 @@ Sara now has access to her apartment again. She sees that one of her two compute
 - Prepare with lawyers and editors on how to best respond to house raids  
 - Do not keep sensitive information at home if there are possibilities of house raids
 
-	Journalist Security Fellowship
 
 # **Tabletop Exercises**
 
@@ -755,10 +746,6 @@ In the comments of the post by Sara’s media organization, someone posts Sara�
 
 	
 
-Journalist Security Fellowship
-
-# 
-
 # **Tabletop Exercises**
 
 # **Scenario 7: Account security**  {#scenario-7:-account-security}
@@ -836,7 +823,6 @@ The team worked with an emergency response team who determined the source was no
   - Conduct training on phishing attacks.  
   - Remind staff and sources that they should immediately report any security mistakes they make, that there’s no shame and this is best for the team’s security
 
-	Journalist Security Fellowship
 
 # **Tabletop Exercises**
 
@@ -937,8 +923,6 @@ She is free to go, but she sees that the police wrote down something, most likel
     - Always keep software up to date  
     - Use disappearing messages
 
-	Journalist Security Fellowship
-
 # **Tabletop Exercises**
 
 # **Scenario 9: Secure Browsing & Persuading Sources**  {#scenario-9:-secure-browsing-&-persuading-sources}
@@ -1037,7 +1021,6 @@ The investigation is coming to an end and Sara has to, in line with the right to
 - Ensure that she has extensively archived (for example via archive.org) and taken screenshots of all webpages and documents in case they are rapidly deleted. She could a list of the documents currently online so you can spot deletions  
 - Have and test out special security measures, such as being ready to remotely wipe devices
 
-	Journalist Security Fellowship
 
 # **Tabletop Exercises**
 
@@ -1128,7 +1111,6 @@ Inject: The day before the submission deadline, Sara’s editor writes to and ex
   - Sara could say that, if the documents were classified or restricted, then only a very small number of people would have access to them, making it very easy to identify the source  
   - The outlet could face legal troubles for publishing classified or restricted documents, which they might not face if they merely possessed and reported on those documents
 
-	Journalist Security Fellowship
 
 # **Tabletop Exercises**
 
@@ -1154,7 +1136,6 @@ Participants will learn how to prevent and respond to possible hacked social med
 4. Phishing safety: participants should be able to list some of the main signs which suggest that an email is a phishing email or malicious (strange phrasing, sense of urgency, suspicious URLs, suspicious sender address, does not list the recipient by name, and the like)  
 5. Basic device security: checking for and installing software updates on iOS and Android
 
-## 
 
 ## **Scenario**
 
