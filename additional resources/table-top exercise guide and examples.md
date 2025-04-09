@@ -5,27 +5,27 @@
 
 [Table-Top Exercise (TTX) Facilitation Guide for Digital Safety Training](#table-top-exercise-facilitation-guide-for-digital-safety-training)
 
-[Scenario 1: Missing Device](#scenario-1:-missing-device)
+[Scenario 1: Missing Device](#scenario-1-missing-device)
 
-[Scenario 2: Operational Security](#scenario-2:-operational-security)
+[Scenario 2: Operational Security](#scenario-2-operational-security)
 
-[Scenario 3: Harassment and Doxxing](#scenario-3:-harassment-and-doxxing)
+[Scenario 3: Harassment and Doxxing](#scenario-3-harassment-and-doxxing)
 
-[Scenario 4: Authorities entering a newsroom](#scenario-4:-authorities-entering-a-newsroom)
+[Scenario 4: Authorities entering a newsroom](#scenario-4-authorities-entering-a-newsroom)
 
-[Scenario 5: Authorities entering journalist home](#scenario-5:-authorities-entering-journalist-home)
+[Scenario 5: Authorities entering journalist home](#scenario-5-authorities-entering-journalist-home)
 
-[Scenario 6: Doxxing](#scenario-6:-doxxing)
+[Scenario 6: Doxxing](#scenario-6-doxxing)
 
-[Scenario 7: Account security](#scenario-7:-account-security)
+[Scenario 7: Account security](#scenario-7-account-security)
 
-[Scenario 8: Travel Security](#scenario-8:-travel-security)
+[Scenario 8: Travel Security](#scenario-8-travel-security)
 
-[Scenario 9: Secure Browsing & Persuading Sources](#scenario-9:-secure-browsing-&-persuading-sources)
+[Scenario 9: Secure Browsing & Persuading Sources](#scenario-9-secure-browsing--persuading-sources)
 
-[Scenario 10: Sharing Files & Working with Untrusted Documents](#scenario-10:-sharing-files-&-working-with-untrusted-documents)
+[Scenario 10: Sharing Files & Working with Untrusted Documents](#scenario-10-sharing-files--working-with-untrusted-documents)
 
-[Scenario 11: Social Media Compromise](#scenario-11:-social-media-compromise)
+[Scenario 11: Social Media Compromise](#scenario-11-social-media-compromise)
 
 
 
@@ -149,7 +149,7 @@ We created a single persona, Sara, to base the experiences in the example TTX sc
 
 # **Tabletop Exercises**
 
-# **Scenario 1: Missing Device**  {#scenario-1:-missing-device}
+# Scenario 1: Missing Device
 
 ### Created by Journalist Security Fellowship participants
 
@@ -246,7 +246,7 @@ Good news\! A friend of Sara who has been with her at the party found the phone 
 
 # **Tabletop Exercises**
 
-# **Scenario 2: Operational Security** {#scenario-2:-operational-security}
+# Scenario 2: Operational Security
 
 ### Created by Journalist Security Fellowship participants
 
@@ -324,7 +324,7 @@ Sara learns that the leak came from the inside of her organization. A designer h
 
 # **Tabletop Exercises**
 
-# **Scenario 3: Harassment and Doxxing**  {#scenario-3:-harassment-and-doxxing}
+# Scenario 3: Harassment and Doxxing
 
 ### Created by Journalist Security Fellowship participants
 
@@ -424,7 +424,7 @@ Discuss with the group of participants why each of these photos might be sensiti
 
 # **Tabletop Exercises**
 
-# **Scenario 4: Authorities entering a newsroom** {#scenario-4:-authorities-entering-a-newsroom}
+# Scenario 4: Authorities entering a newsroom
 
 ### Created by Journalist Security Fellowship participants
 
@@ -510,7 +510,7 @@ A few weeks later, the editor of the newsroom calls all the journalists and staf
 
 # **Tabletop Exercises**
 
-# **Scenario 5: Authorities entering journalist home** {#scenario-5:-authorities-entering-journalist-home}
+# Scenario 5: Authorities entering journalist home
 
 ### Created by Journalist Security Fellowship participants
 
@@ -638,7 +638,7 @@ Sara now has access to her apartment again. She sees that one of her two compute
 
 # **Tabletop Exercises**
 
-# **Scenario 6: Doxxing** {#scenario-6:-doxxing}
+# Scenario 6: Doxxing
 
 ### Created by Journalist Security Fellowship participants
 
@@ -748,7 +748,7 @@ In the comments of the post by Sara’s media organization, someone posts Sara�
 
 # **Tabletop Exercises**
 
-# **Scenario 7: Account security**  {#scenario-7:-account-security}
+# Scenario 7: Account security
 
 ### Created by Journalist Security Fellowship participants
 
@@ -826,7 +826,7 @@ The team worked with an emergency response team who determined the source was no
 
 # **Tabletop Exercises**
 
-# **Scenario 8: Travel Security** {#scenario-8:-travel-security}
+# Scenario 8: Travel Security
 
 ### Created by Journalist Security Fellowship participants
 
@@ -925,7 +925,7 @@ She is free to go, but she sees that the police wrote down something, most likel
 
 # **Tabletop Exercises**
 
-# **Scenario 9: Secure Browsing & Persuading Sources**  {#scenario-9:-secure-browsing-&-persuading-sources}
+# Scenario 9: Secure Browsing & Persuading Sources
 
 ### Created by Journalist Security Fellowship participants
 
@@ -1024,7 +1024,7 @@ The investigation is coming to an end and Sara has to, in line with the right to
 
 # **Tabletop Exercises**
 
-# **Scenario 10: Sharing Files & Working with Untrusted Documents** {#scenario-10:-sharing-files-&-working-with-untrusted-documents}
+# Scenario 10: Sharing Files & Working with Untrusted Documents
 
 ### Created by Journalist Security Fellowship participants
 
@@ -1114,7 +1114,7 @@ Inject: The day before the submission deadline, Sara’s editor writes to and ex
 
 # **Tabletop Exercises**
 
-# **Scenario 11: Social Media Compromise** {#scenario-11:-social-media-compromise}
+# Scenario 11: Social Media Compromise
 
 ### Created by Journalist Security Fellowship participants
 
