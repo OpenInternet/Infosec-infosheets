@@ -3,33 +3,33 @@
 # Journalist Security Fellowship
 
 
-**[Table-Top Exercise (TTX) Facilitation Guide for Digital Safety Training	1](#table-top-exercise-(ttx)-facilitation-guide-for-digital-safety-training)**
+[Table-Top Exercise (TTX) Facilitation Guide for Digital Safety Training](#table-top-exercise-facilitation-guide-for-digital-safety-training)
 
-[**Scenario 1: Missing Device**](#scenario-1:-missing-device)
+[Scenario 1: Missing Device](#scenario-1:-missing-device)
 
-[**Scenario 2: Operational Security**](#scenario-2:-operational-security)
+[Scenario 2: Operational Security](#scenario-2:-operational-security)
 
-[**Scenario 3: Harassment and Doxxing**](#scenario-3:-harassment-and-doxxing)
+[Scenario 3: Harassment and Doxxing](#scenario-3:-harassment-and-doxxing)
 
-[**Scenario 4: Authorities entering a newsroom**](#scenario-4:-authorities-entering-a-newsroom)
+[Scenario 4: Authorities entering a newsroom](#scenario-4:-authorities-entering-a-newsroom)
 
-[**Scenario 5: Authorities entering journalist home**](#scenario-5:-authorities-entering-journalist-home)
+[Scenario 5: Authorities entering journalist home](#scenario-5:-authorities-entering-journalist-home)
 
-[**Scenario 6: Doxxing**](#scenario-6:-doxxing)
+[Scenario 6: Doxxing](#scenario-6:-doxxing)
 
-[**Scenario 7: Account security**](#scenario-7:-account-security)
+[Scenario 7: Account security](#scenario-7:-account-security)
 
-[**Scenario 8: Travel Security**](#scenario-8:-travel-security)
+[Scenario 8: Travel Security](#scenario-8:-travel-security)
 
-[**Scenario 9: Secure Browsing & Persuading Sources**](#scenario-9:-secure-browsing-&-persuading-sources)
+[Scenario 9: Secure Browsing & Persuading Sources](#scenario-9:-secure-browsing-&-persuading-sources)
 
-[**Scenario 10: Sharing Files & Working with Untrusted Documents**](#scenario-10:-sharing-files-&-working-with-untrusted-documents)
+[Scenario 10: Sharing Files & Working with Untrusted Documents](#scenario-10:-sharing-files-&-working-with-untrusted-documents)
 
-[**Scenario 11: Social Media Compromise**](#scenario-11:-social-media-compromise)
+[Scenario 11: Social Media Compromise](#scenario-11:-social-media-compromise)
 
 
 
-# **Table-Top Exercise (TTX) Facilitation Guide for Digital Safety Training** {#table-top-exercise-(ttx)-facilitation-guide-for-digital-safety-training}
+# **Table-Top Exercise Facilitation Guide for Digital Safety Training**
 
 ## **Purpose and Introduction**
 
