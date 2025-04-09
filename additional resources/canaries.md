@@ -109,7 +109,10 @@ The facilitator will ask what participants expect to happen when they copy the i
 The facilitator might hint at this stage that the image will contact a server, which means that it will reveal an IP address used by the user. If any participants have a VPN installed, the facilitator can encourage them to enable it at this point. The facilitator can similarly ask what IP address would show up if participants have a VPN enabled, and allow participants to guess. (With the correct answer being that the token will either get the IP address of the user's local network or that of their VPN).
 
 First, participants should paste the image into a Word document. To do so, they need to go to the "Insert" tab, and click on the button next to the "text box" button that says "Field":\
-![A screenshot of Microsoft Word, with the \"insert\" tab selected, then the button that says \"text box\". The user sees a button labeled \"Field\"](./canary-images/media/image5.png)
+![A screenshot of Microsoft Word, with the \"insert\" tab selected, then the button that says \"text box\". The user sees a button labeled \"Field\"](./canary-images/media/image5.png) \
+
+
+
 Participants should scroll through the "field names" list until they find one called "IncludePicture". Under "field properties", they should paste the address of the canary token under "Filename or URL" and click "OK":
 
 ![The Microsoft Word dialog which allows users to choose a custom field. The \"include picture\" option is selected, and under \"field properties\" the user can enter a filename or URL. We have taken the URL of the canary token we have generated previously and pasted it in the \"filename or URL\" field](./canary-images/media/image16.png)
@@ -144,14 +147,14 @@ The token should have opened up in at least two IP addresses: one of them matchi
 
 Following this, the facilitator leads a bigger conversation on what just happened and what we just witnessed. The token opened on a Google IP address, which implies that it was processed on a Google platform. This means that the token, and by extension attackers who might try to track you, do not know your real IP address but only know that you opened your documents on Google. Some main points that the facilitator should stress is that it is often safer to open files in a cloud platform like Google's rather than on your device, as all of the document and any trackers and malware it contains will run on Google's servers rather than your own device. This is often safer than using a VPN and opening files on your own device, which can keep you safe from trackers but not necessarily malware. At the same time, the facilitator could encourage participants to think of cases and threat models in which loading a document within Google or another cloud service is not advisable.
 
-A word document token
+### A word document token
 
 Participants will be asked to once again access [https://canarytokens.org/generate](https://canarytokens.org/generate) and this time download a Microsoft Word token:\
 \
 ![The canary tokens token generation page. It allows you to choose one of several token types, including web bugs, DNS tokens, AWS keys, sensitive command tokens, microsoft word documents, and more](./canary-images/media/image2.png)
 They should see the following page, which allows them to download the document:\
 \
-![A screenshot of the canary tokens website as it generated a microsoft word token. A big call-to-action button encourages the user to download the microsoft word file](./canary-images/media/image17.png){width="6.267716535433071in" height="4.041666666666667in"}
+![A screenshot of the canary tokens website as it generated a microsoft word token. A big call-to-action button encourages the user to download the microsoft word file](./canary-images/media/image17.png)
 
 Participants should then download and open the file. It should be a blank Microsoft Word document and should open with the following warning:
 
