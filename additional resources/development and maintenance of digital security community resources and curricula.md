@@ -1,7 +1,7 @@
 
 # The Development and Maintenance of Digital Security Community Resources and Curricula
 
-by the Infuse Project Team and Laura Vidal
+by the [Infuse](https://infuse.quest) Project Team and Laura Vidal
 
 
 ## Introduction
