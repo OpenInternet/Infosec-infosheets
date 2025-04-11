@@ -54,7 +54,7 @@ Signal shows security notifications by default. In order to see them on WhatsApp
 
 ## Location privacy during phone calls and video chats
 
-When you call somebody over a messenger, the call go directly from your phone or that of the recipient. The latter is typically easier and leads to higher quality calls. Since you connect directly to someone else's device, you will inevitably need to share the IP address from which you are calling. IP addresses can be correlated with your location (or alternatively, reveal the fact that you're using a VPN), so some at risk individuals would prefer to hide them when calling others through a messenger. Thankfully, WhatsApp, Signal, and Telegram all offer the option to relay all calls through their servers. While possibly reducing call quality, it will hide your IP address from whoever you are talking to.
+When you call somebody over a messenger, the call can can go directly from your phone to that of your recipient (in contrast to messages, which are first routed through a server). Since you connect directly to someone else's device, you will inevitably need to share the IP address from which you are calling. IP addresses can be correlated with your location (or alternatively, reveal the fact that you're using a VPN), so some at-risk individuals prefer to hide them when calling others through a messenger. Thankfully, WhatsApp, Signal, and Telegram all offer the option to relay all calls through their servers. While possibly reducing call quality, it will hide your IP address from whoever you are talking to.
 
 ### How to enable this feature
 
