@@ -1,7 +1,7 @@
 # Infosheet: Physical security keys
 (A guide for digital security trainers)
 
-**Note**: This infosheet assumes you understand 2-factor authentication (2FA) and uses various related terms. To brush up on 2FA, good articles can be found online or try these from Okta or TechTarget.
+**Note**: This infosheet assumes you understand 2-factor authentication (2FA) and uses various related terms. To brush up on 2FA, good articles can be found online or try these from [Okta](https://www.okta.com/blog/2021/07/what-is-two-factor-authentication-2fa/) or [TechTarget](https://www.techtarget.com/searchsecurity/definition/two-factor-authentication).
 
 **A physical security key** looks a little bit like a flash drive. It can typically communicate with your devices through USB-A, USB-C, or wireless technologies such as Bluetooth or NFC. There are two main things you can do with a physical security key:
 
@@ -53,6 +53,6 @@ The keys are also designed to be impossible to duplicate: even if somebody got h
 
 Finally, the keys also contain a counter. Every time the key's button is pressed, the counter goes up by one. The website you log in to keeps track of that counter every time you use a security key. If you tried to log in using a counter that is lower than the last request the website received from you, it should assume that someone intercepted your communication and refuse to log you in.
 
-*This infosheet was developed in October 2024, for Internews partners and fellows delivering digital security training activities. You are welcome to adapt, edit, or translate this sheet based on your training needs.*
+*This infosheet was developed for Internews partners and fellows delivering digital security training activities. You are welcome to adapt, edit, or translate this sheet based on your training needs.*
 
 The above content has been released under the [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license
