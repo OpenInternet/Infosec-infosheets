@@ -18,16 +18,17 @@ Just like physical security keys, a passkey is tied to the service where it was 
 
 Many online platforms have rolled out passkeys, and support is expected to become more widespread across the web. Still, passkeys are relatively untested and poorly understood by most users. High-risk groups, particularly those with unusual set-ups that may consist of multiple devices that they don’t always have access to, and who face increased physical threats or threats of duress, may need special consideration. In addition, individuals with older hardware or intermittent network or Bluetooth functionality may have difficulty with passkeys.
 
-Because the technology has been rolled out only recently (since 2022) and often works relatively seamlessly, users often have a hard time understanding what is happening or identifying where their passkeys are stored. Similarly, while some services just request passkeys, others might still require the user to type in a username and password and only later authenticate through a passkey. The standards body responsible for rolling out passkeys has not yet published standards on how to back them up or move them between devices. Currently, the recommendation is to create a separate passkey for every device you own, or alternatively synchronize them across all devices through a password manager. We also recommend creating a backup authentication method, such as a security key that uses U2F, in case the devices on which you store your passkeys are lost or damaged.
+Because the technology has been rolled out only recently (since 2022) and often works relatively seamlessly, users often have a hard time understanding what is happening or identifying where their passkeys are stored.
+Similarly, while some services just request passkeys, others might still require the user to type in a username and password and only later authenticate through a passkey. In some services, for example Google for Organizations, the system administrator can decide whether to allow passkey-only login or require a password in addition to a passkey.
+FIDO, the standards body responsible for rolling out passkeys, has not yet published standards on how to back them up or move them between devices. Currently, the recommendation is to create a separate passkey for every device you own, or alternatively synchronize them across all devices through a password manager. We also recommend creating a backup authentication method, such as a security key that uses U2F, in case the devices on which you store your passkeys are lost or damaged.
 
 For these reasons, we recommend everyone to experiment with passkeys on sites designed for testing them—such as [https://www.passkeys.io](https://www.passkeys.io) or [https://webauthn.io](https://webauthn.io)—before trying them on active accounts.
 
 \
 \
 \
-\
 
-*This infosheet was developed in October 2024, for Internews partners and fellows delivering digital security training activities. You are welcome to adapt, edit, or translate this sheet based on your training needs.*
+*This infosheet was developed for Internews partners and fellows delivering digital security training activities. You are welcome to adapt, edit, or translate this sheet based on your training needs.*
 
 [^1]: Not all physical security keys can store passkeys. Those that do are usually referred to as FIDO2 security keys. They usually support both passkeys and Universal 2nd Factor (U2F) logins.
 
