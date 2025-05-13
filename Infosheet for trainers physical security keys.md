@@ -35,7 +35,7 @@ Platforms will also have options to remove a security key, and it's crucial to d
 
 It’s a good idea to have at least two physical security keys: a main one and a backup. That will allow you to still maintain access to your account if you lose or damage your main key. Most sites that support physical security keys allow you to add multiple keys; for those that do not, we strongly recommend generating and downloading account recovery codes and keeping those in a safe place in case you ever lose your physical security key.
 
-You can use a single physical security key for as many accounts as you would like. And good news: the websites you use it with will not be able to figure out where else you might be using it. If, for example, you use the same key for Gmail and Facebook, then Facebook's parent company will not be able to see that you use Gmail—or view your login information there—based on your security key alone.
+You can use a single physical security key for as many accounts as you would like. And good news: the websites you use it with will not be able to figure out where else you might be using it (this is called _unlinkability_). If, for example, you use the same key for Gmail and Facebook, then Facebook's parent company will not be able to see that you use Gmail—or view your login information there—based on your security key alone.
 
 ## Note for Trainers
 
