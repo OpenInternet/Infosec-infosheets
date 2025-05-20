@@ -7,3 +7,5 @@ This is the main reason we strongly recommend that everybody uses unique passwor
 Using unique passwords is only one of the many layers of defense you should use. You should combine them with effective two-factor authentication (ideally physical security keys or passkeys), which prevents an attacker who captured your password but doesn't have your second factor from logging in on your behalf.
 
 We recommend taking a look at [Have I Been Pwned](https://haveibeenpwned.com/), a website run by a reputable cyber-security professional which allows you check your email address against existing leaks. If your email address features in any of those leaks, it's no reason to worry: just change the password for this account to a new one, making sure that it's long and unique. Alternatively, you can just replace your passwords with passkeys if the site supports them.
+
+*This infosheet was developed for Internews partners and fellows delivering digital security training activities. You are welcome to adapt, edit, or translate this sheet based on your training needs.*
