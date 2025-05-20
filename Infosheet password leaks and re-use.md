@@ -9,3 +9,5 @@ Using unique passwords is only one of the many layers of defense you should use.
 We recommend taking a look at [Have I Been Pwned](https://haveibeenpwned.com/), a website run by a reputable cyber-security professional which allows you check your email address against existing leaks. If your email address features in any of those leaks, it's no reason to worry: just change the password for this account to a new one, making sure that it's long and unique. Alternatively, you can just replace your passwords with passkeys if the site supports them.
 
 *This infosheet was developed for Internews partners and fellows delivering digital security training activities. You are welcome to adapt, edit, or translate this sheet based on your training needs.*
+
+The above content has been released under the [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license
