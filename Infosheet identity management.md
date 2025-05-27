@@ -9,7 +9,7 @@ Some people willingly and openly use those different identities. For others, tho
 ## Map out all identities
 
 To secure something, you first need to know about it. Make a list of all the different accounts and services each identity uses: those could include email addresses, social media accounts, websites, and more.
-Make sure that each of those accounts has a long, unique password and two-factor authentication (ideally with physical security keys or passkeys.)
+Make sure that each of those accounts has a long, unique password and two-factor authentication (ideally with physical security keys or passkeys.) 
 
 ## Each identity should have its own e-mail address
 
@@ -29,6 +29,9 @@ If all of your accounts post during the same timeslot during the day, then someb
 
 Most photos contain metadata, which could include the model of the camera that took the photo, the time the photo was taken, and possibly the photo's location. If your different accounts upload photos taken by the same camera, then metadata could be used to connect them. There are times when metadata is very important—for example when you are collecting evidence and want to preserve a chain of custody—but at other moments it can be a problem.
 Some social networks might automatically remove metadata, but since different services have different settings, it's best to manually clear it prior to upload. One of the easiest ways of removing image metadata is by sending the image to yourself on Signal, and re-downloading it. The downloaded image should have had all of its metadata cleared (in addition to being compressed). Open the downloaded image in a file explorer or image viewer to check if all the metadata has been removed.
+
+### Online communitites 
+Social media platforms can be a way for people to connect and share with each other, regardless of geographic/social differences and it can also be important for online community organizing however you must be careful whom you let follow you or add you to their groups without verifying their information with a trusted source. 
 
 ### Use of language
 
