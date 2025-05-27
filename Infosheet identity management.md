@@ -33,9 +33,9 @@ Some social networks might automatically remove metadata, but since different se
 ### Online communitites 
 Social media platforms can be a way for people to connect and share with each other, regardless of geographic/social differences and it can also be important for online community organizing however you must be careful whom you let follow you or add you to their groups without verifying their information with a trusted source. 
 
-### Use of language
+### Use of language/content
 
-We all have our favourite words and phrases (this piece's author enjoys overusing the em dash), and unique language or phrases can tell us apart. It might be a good idea for different identities to use slightly different tones in their writing.
+We all have our favourite words and phrases (this piece's author enjoys overusing the em dash), and unique language or phrases can tell us apart. It might be a good idea for different identities to use slightly different tones in their writing. Generally be mindful of the content you share. Although you may be using different identities, unconsciously, the same personal experience narrative could be similiar and this may expose you to an alert attacker who may be searching for clues.
 
 ### Domain names
 
