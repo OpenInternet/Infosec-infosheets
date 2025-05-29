@@ -41,3 +41,10 @@ We all have our favourite words and phrases (this piece's author enjoys overusin
 ### Domain names
 
 Anyone who registers a domain must give their details, such as name and address, to their registrar. While not always enforced, giving fake details could lead to the registration being suspended. Sometimes, the details you give to the registrar could be published and visible through tools such as RDAP or WHOIS. To ensure that nobody (except for the registrar) can see your details, enable RDAP/WHOIS privacy. Many registrars have already turned this on by default, though some might charge an extra fee for it.
+
+
+
+
+*This infosheet was developed for Internews partners and fellows delivering digital security training activities. You are welcome to adapt, edit, or translate this sheet based on your training needs.*
+
+The above content has been released under the [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license
