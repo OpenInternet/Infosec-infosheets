@@ -1,7 +1,5 @@
 # Infosheet: Identity management
 
-***STILL IN BETA, NOT YET PRODUCTION READY***
-
 Sometimes, it's not possible for us to safely do all of our work under a single name, and we might need to create separate identities. An activist supporting at-risk individuals in a repressive country, for example, might be using one identity for this type of work, and another for standard social and professional interactions.
 
 Some people willingly and openly use those different identities. For others, though, it's important that the different identities cannot be easily tied together. We've listed a few steps you could take to keep your different identities safely apart:
