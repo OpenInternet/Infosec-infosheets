@@ -3,7 +3,9 @@
 
 ## Enable two-step verification/ two-factor authentication
 
-As we mentioned in our guide on [messenger takeovers](Infosheet messenger takeover attacks.md), someone who manages to intercept SMS messages sent to your account--or tricks you into sending them a six-digit code--will be able to take over your WhatsApp, Signal, or Telegram account. Fortunately, it's easy to set an additional password without which you cannot register the account on a new device. We strongly encourage enabling this feature.
+As we mentioned in our guide on [messenger takeovers](Infosheet messenger takeover attacks.md), someone who manages to intercept SMS messages sent to your account—or tricks you into sending them a six-digit code—will be able to take over your WhatsApp, Signal, or Telegram account. Fortunately, it's easy to set an additional password without which you cannot register the account on a new device. We strongly encourage enabling this feature.
+
+(WhatsApp also allows you to [set a passkey](https://faq.whatsapp.com/1850567238795036/?cms_platform=android) in addition or instead of the additional password. You can use either, whichever better fits your current workflow)
 
 ### How to enable this feature
 
