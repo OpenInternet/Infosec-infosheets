@@ -35,7 +35,7 @@ SS7 is an old protocol that wasn’t built with security in mind (and unlike mos
 
 ## Weakness #5: Providers.
 
-Finally, in some cases the providers that send SMS messages on companies’ behalf are hackable and/or corrupt, allowing for adversaries with the right means and/or contacts to intercept SMS messages in real time as they are being sent. It should be noted that platforms often use local providers in the country to send SMS on their behalf. Platforms may be unable or unwilling to check the security of these providers—which could lead to user’s SMS messages (and any accounts relying on SMS-based 2FA) to be at risk.
+Finally, in some cases the providers that send SMS messages on companies’ behalf are hackable and/or corrupt, allowing for adversaries with the right means and/or contacts to intercept SMS messages in real time as they are being sent. Platforms often use local providers or contractors in the country to send SMS on their behalf. In at least one case, major platforms used a provider that had [links with the surveillance industry](https://www.lighthousereports.com/investigation/two-factor-insecurity/). Platforms may be unable or unwilling to check the security of these providers—which could lead to user’s SMS messages (and any accounts relying on SMS-based 2FA) to be at risk.
 
 ## Conclusion
 
