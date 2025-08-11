@@ -31,6 +31,8 @@ We strongly recommend that newsrooms use a single AI provider (or, if that’s n
 
 Many AI systems offer the possibility of saving chat histories, including prompts and replies. This could be helpful, but might also expose additional information if anyone ever received access to the account or if it was shared between several people. Browse through the features of the chatbot(s) you’re using and learn how to enable, disable, and delete history.
 
+Also, if in your threat model includes potential seizure, theft, or any other unauthorized acquisition of any device that can access AI chat history, also consider deleting any chatbot history frequently, or at least every time the device can be compromised, like in risky border crossings or during field coverage in sensitive contexts.
+
 ### Hallucinations and AI poisoning
 
 AIs frequently *hallucinate*: they can make up facts, incorrectly summarize websites, or reference non-existing resources. Always check their output to make sure it’s accurate. There are no easy rules for verifying AI outputs, though we recommend thoroughly reading through any references that a chatbot cites and making sure that they support its arguments.
