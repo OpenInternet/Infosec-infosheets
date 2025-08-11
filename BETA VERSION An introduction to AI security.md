@@ -6,13 +6,14 @@
 
 ### Distinguishing between on-device and cloud-based AI
 
-When an AI system processes your data, for example to answer a query or transcribe some audio, it could do so either on your device or in a cloud. This is a bit like word processing: you could use an application that just saves to your desktop, or cloud-based one.
+When an AI system processes your data, for example to answer a query or transcribe spoken audio, it could do so either on your device or in a cloud. This is a bit like word processing: you could use an application that just saves to your desktop, or cloud-based one.
 
-On-device AIs do all of the processing on your mobile or desktop device, and typically do not send queries back to the provider. If an AI-driven app can work offline, it’s probably only using on-device capabilities. On-device AIs offer the best privacy guarantees, though they could still reveal logs or other details if someone, such as an abusive partner or security officer conducting a search, looks through the device. It's often possible to use an on-device LLM to process highly sensitive data, though this might require some initial set up. If this is of interest to you, reach out to a digital security trainer or IT person who could help set up such a system.
+On-device AIs do all of the processing on your mobile or desktop device, and typically do not send queries back to the provider. One easy way to tell if an AI is on-device is to check if it fully works when the device it's on is disconnected from the internet.
+On-device AIs offer the best privacy guarantees, though they could still reveal logs or other details if someone, such as an abusive partner or security officer conducting a search, looks through the device. It's often possible to use an on-device LLM to process highly sensitive data, though this might require some initial set up. If this is of interest to you, reach out to a digital security trainer or IT person who could help set up such a system.
 
 Cloud-based AIs, on the other hand, process data on a company's servers. This data will be used, stored, and shared in accordance with that company’s privacy policy–that’s why it’s important to read and regularly review those policies. Cloud-based AIs are often more capable than on-device AIs, since they can rely on more data and computing power.
 
-Finally, some manufacturers are now building hybrid AI systems. They might rely on on-device capabilities for some tasks and cloud capabilities for other tasks. A well-designed hybrid AI should warn and ask the user for permission prior to uploading any of their data to the cloud.
+Some manufacturers are building hybrid AI systems. Those might rely on on-device capabilities for some tasks and cloud capabilities for others. A well-designed hybrid AI should warn and ask the user for permission prior to uploading any of their data to the cloud.
 
 The AI landscape remains new. Tools, capabilities, and privacy guarantees are constantly changing. As such, it’s important to regularly check back and see what processing happens on-device, what happens in the cloud, and what the cloud provider’s privacy promises are.
 
