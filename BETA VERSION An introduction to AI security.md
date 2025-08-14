@@ -4,6 +4,28 @@
 **This document is a beta version. It is not yet ready for production or to be shared with at-risk individuals. If you see something we could improve, please let us know or submit a pull request**
 ====
 
+# Introduction
+
+Journalists are starting to use AI (artificial intelligence) and LLMs (large language models) in their work. They could be using them for research, audio transcription, translation, and many other things. AI tools are new, and many of them are not yet ready to deal with highly sensitive information such as source names or confidential research.
+
+This chapter will cover:
+
+* The differences between on-device and cloud-based AI
+* AI logs, enterprise AIs, and histories
+* AI hallucinations and AI poisoning
+
+
+## Training journalists for the first time?
+
+The following can be helpful to keep in mind:
+
+* Journalists will often use individual or free tiers of online services, including AIs, for their work. It is rare for them to be purchasing enterprise versions of such services.
+* Attitudes towards AI might radically differ among newsrooms and journalists. While some might willingly integrate it into their workflows and try to use it to boost their productivity, others might be reluctant to use generative AI over copyright, environmental, and other concerns.
+* Many AI tools, such as chatbots, continue to develop quickly and change their functionality and settings regularly. Journalists will rarely have time to keep up with such developments, and might rely more on security professionals, whom they'll expect to be researching such changes.
+
+## New to training AI digital security?
+
+
 ### Distinguishing between on-device and cloud-based AI
 
 When an AI system processes your data, for example to answer a query or transcribe spoken audio, it could do so either on your device or in a cloud. This is a bit like word processing: you could use an application that just saves to your desktop, or cloud-based one.
