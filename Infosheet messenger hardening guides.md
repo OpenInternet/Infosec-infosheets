@@ -68,12 +68,14 @@ When you call somebody over a messenger, the call can can go directly from your 
 
 WhatsApp allows you to back up your conversations to Google Drive or iCloud. That way, even if your phone was lost, broken, or stolen, you could still easily restore an archive of your chats. As an additional protection, you can also encrypt those backups with a special password: that way, if anyone were to gain access to the account where those backups are stored, they would be unable to read their content without the password.
 
+Signal is also just rolling out an encrypted backup feature, although it currently only supports backing up to Signal's own cloud. Backups to other location will come at a later point.
+
 Do note that you will not be able to access the data stored in the backup without the password. As such, make sure to store it in a safe place.
 
 ### How to enable this feature
 
 [WhatsApp](https://faq.whatsapp.com/490592613091019)
-
+[Signal](https://signal.org/blog/introducing-secure-backups/)
 
 ----
 
